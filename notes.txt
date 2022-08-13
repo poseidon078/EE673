@@ -1,0 +1,3 @@
+socket is a 4 tuple, ip, port, source, dest udp is two tuple
+
+udp adds 2 more blocks to application layer: error check (using checksum) and source-dest ip
